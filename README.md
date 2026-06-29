@@ -24,24 +24,6 @@ Using Power BI's data visualization capabilities, the dashboard transforms raw s
 
 ---
 
-## 📊 Dashboard Preview
-
-### 📌 Dashboard
-
-> *(Add your dashboard screenshot here)*
-
-![Dashboard](images/dashboard.png)
-
----
-
-### 📌 Dataset Preview
-
-> *(Add your dataset screenshot here)*
-
-![Dataset](images/dataset.png)
-
----
-
 ## 📂 Dataset Information
 
 The dataset contains mobile sales transactions with the following fields:
